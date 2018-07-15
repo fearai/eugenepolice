@@ -1,5 +1,5 @@
 
-python starter code to scrape the eugene oregon police log
+python starter code to scrape the eugene oregon police log http://coeapps.eugene-or.gov/epddispatchlog
 
 enter your dates up top and run, you will get a printout of your results and they will also be saved to a csv file
 
